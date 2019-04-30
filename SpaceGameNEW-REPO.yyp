@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "22631481-c9d5-4630-9bc3-354275cba1b3",
+            "Value": {
+                "id": "8638951e-e2f9-4916-a75b-a8123aa008a8",
+                "resourcePath": "sprites\\spr_brownplanet\\spr_brownplanet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2763ad36-d707-46a5-a93f-f811910d5fc7",
             "Value": {
                 "id": "c8086617-c54e-4bbd-99e7-61231265117c",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "4e3d6aee-b7bd-4276-bdd5-480fe93a47e0",
+            "Value": {
+                "id": "29aa1286-d27b-447c-bbbf-dae703224404",
+                "resourcePath": "sprites\\spr_swirlplanet\\spr_swirlplanet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4fce40b8-88c8-4465-ad40-8f4b20985277",
             "Value": {
                 "id": "aa7cd83e-4944-43e0-8bc9-7e1b28dcdbb1",
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "73b01232-af3e-43ef-828e-bea750781fc4",
+            "Value": {
+                "id": "7d685fa2-9bb8-4105-92eb-5cc15af0293b",
+                "resourcePath": "sprites\\spr_brownplanet_pickup\\spr_brownplanet_pickup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75d53b9d-226b-416a-8308-24e17dbf214c",
             "Value": {
                 "id": "d8f0286d-598c-4be4-9523-a69e958b5b92",
@@ -276,6 +300,14 @@
                 "id": "f2e0d1d6-d1d2-4c5e-bd5f-c234b7745c58",
                 "resourcePath": "objects\\obj_health1\\obj_health1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "79fe252c-87d7-4365-b5f0-f00c1c107b4f",
+            "Value": {
+                "id": "fb717e3e-8230-4242-aac3-84915c09a65f",
+                "resourcePath": "sprites\\spr_planet_pickup\\spr_planet_pickup.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -431,6 +463,14 @@
             }
         },
         {
+            "Key": "d1d1cee8-69cd-4d9e-8bb2-306fb0eae3e7",
+            "Value": {
+                "id": "6f8dbb9e-fb0c-462b-b154-d8b538ee8d70",
+                "resourcePath": "sprites\\spr_swirlplanet_pickup\\spr_swirlplanet_pickup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d67e7389-e156-4ce4-b5fb-afdd4cca2373",
             "Value": {
                 "id": "aa41a0bf-2b85-41a0-ac8c-0b517bddab43",
@@ -547,6 +587,14 @@
             "Value": {
                 "id": "51b4a16e-faec-49e2-954d-56d41dc83b1b",
                 "resourcePath": "sprites\\spr_planet\\spr_planet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fc0a38f3-401c-430c-b474-687b7194e29a",
+            "Value": {
+                "id": "5f3e0c3c-26ff-48b4-82dc-0d2e62082624",
+                "resourcePath": "sprites\\spr_asteroidfire\\spr_asteroidfire.yy",
                 "resourceType": "GMSprite"
             }
         }
