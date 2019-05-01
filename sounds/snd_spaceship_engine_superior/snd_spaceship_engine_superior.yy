@@ -1,8 +1,8 @@
 {
-    "id": "3b809fb6-5687-4969-8075-af860e0caaa8",
+    "id": "74a0f98c-04b5-473e-8337-6d8d353dc63b",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_hit",
+    "name": "snd_spaceship_engine_superior",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
