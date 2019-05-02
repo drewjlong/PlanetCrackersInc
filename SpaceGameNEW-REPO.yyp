@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1977fe64-b7e5-4257-8c01-b72a9a3722b3",
+            "Value": {
+                "id": "8b0736f9-b44d-4f0b-8960-ddb66306e9b5",
+                "resourcePath": "objects\\o_swirlPlanetPickup\\o_swirlPlanetPickup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19c2c8bf-501b-47ed-b1d4-1f04c0b57036",
             "Value": {
                 "id": "2f1943cf-11b9-4d14-947b-ea04127b7343",
@@ -116,6 +124,14 @@
                 "id": "c8086617-c54e-4bbd-99e7-61231265117c",
                 "resourcePath": "views\\2763ad36-d707-46a5-a93f-f811910d5fc7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "28af0534-ef86-4af3-8b1a-1b7b9d3c9deb",
+            "Value": {
+                "id": "e61be8ab-1cbf-4bb8-b86c-d580f7a0db47",
+                "resourcePath": "objects\\o_brownPlanetPickup\\o_brownPlanetPickup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -252,6 +268,14 @@
                 "id": "6752a5bd-79a6-4082-87c6-de8ad8a0821d",
                 "resourcePath": "views\\552f7c23-d1ab-4b8c-9fc7-ee330a72705f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "57bfe50a-4c5b-48b2-840a-e485116befa3",
+            "Value": {
+                "id": "5d31ac6e-32f4-487b-8cf0-de398647843f",
+                "resourcePath": "objects\\o_brownPlanetSpawner\\o_brownPlanetSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -596,6 +620,14 @@
                 "id": "e0a121ff-c547-4646-8f7c-076f82eb565d",
                 "resourcePath": "views\\e19b54b0-f49f-4278-b1c4-13581d1c409f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3a3d567-60a2-4e0f-8134-c6e1e0097f7e",
+            "Value": {
+                "id": "a29bd183-3b06-41dd-a060-9efbe2adae21",
+                "resourcePath": "objects\\o_swirlPlanetSpawner\\o_swirlPlanetSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
