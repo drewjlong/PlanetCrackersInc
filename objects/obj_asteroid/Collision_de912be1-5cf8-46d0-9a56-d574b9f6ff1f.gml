@@ -1,7 +1,5 @@
  /// @description Insert description here
 // You can write your code in this editor
-audio_play_sound(snd_crack,6,0);
-
 if (global.shipHealth==3)
 	{instance_destroy(obj_health1)};
 if (global.shipHealth==2)
