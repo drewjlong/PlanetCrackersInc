@@ -9,7 +9,7 @@ if (global.shipHealth==1)
 	{ audio_play_sound(snd_you_died,1,0);
 		audio_pause_sound(snd_music);
 		audio_pause_sound(snd_low_health);
-		audio_pause_sound(snd_spaceship_engine_superior;
+		audio_pause_sound(snd_spaceship_engine_superior);
 		room_goto(r_lose)}
 global.shipHealth-=1
 	
