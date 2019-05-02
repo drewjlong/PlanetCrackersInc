@@ -1,5 +1,5 @@
 {
-    "id": "f76e3ca4-92f5-4e7c-bab3-8f2b8a46735b",
+    "id": "145c1c92-55e8-4391-8df5-08d66508e667",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_satellitespawner",

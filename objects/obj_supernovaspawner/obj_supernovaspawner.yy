@@ -1,5 +1,5 @@
 {
-    "id": "7d4b8401-a47b-48ae-bcd5-6deed4f834f7",
+    "id": "fd9ad41d-23c1-4751-9e12-d341df8c3b1e",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_supernovaspawner",

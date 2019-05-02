@@ -1,5 +1,5 @@
 {
-    "id": "3cfa58e9-5fca-48b5-b045-e8377cf22da2",
+    "id": "7575c7a4-9c47-4159-a86c-61a12c6bfeb8",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_ufo",

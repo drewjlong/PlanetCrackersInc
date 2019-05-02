@@ -1,5 +1,5 @@
 {
-    "id": "b0c1e4ea-99d8-4775-8eaa-d1d6b5dc3e84",
+    "id": "1837308e-5ebd-4eea-9b20-86838e96adbd",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_ufospawner",

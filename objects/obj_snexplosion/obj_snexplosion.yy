@@ -1,5 +1,5 @@
 {
-    "id": "f5e3fcb0-a65c-415c-9362-6ee37ee5234c",
+    "id": "962817f2-5ddd-47fa-8fd1-36328a3686a9",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_snexplosion",

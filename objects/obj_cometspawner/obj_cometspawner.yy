@@ -1,5 +1,5 @@
 {
-    "id": "e9e91c7f-838f-424c-8223-fe1670cb0b6c",
+    "id": "f1b1df48-7959-49f8-a45c-b5faa314d683",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_cometspawner",

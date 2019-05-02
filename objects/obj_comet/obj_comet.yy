@@ -1,5 +1,5 @@
 {
-    "id": "c4b207bb-ee6c-4078-9348-79b3ecff66bd",
+    "id": "538adf42-3f2e-4838-b0e4-0c9765b00cf1",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_comet",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7494cb7e-ad25-4164-a6ce-acee31ef12a1",
+    "spriteId": "c389bf2a-d0c4-479c-b2a4-57445b16e124",
     "visible": true
 }

@@ -1,5 +1,5 @@
 {
-    "id": "c4c469ef-1952-4eea-93a6-48fb1186218a",
+    "id": "c17afc63-d070-4d64-a6be-46cb4c73c07e",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_supernova",
