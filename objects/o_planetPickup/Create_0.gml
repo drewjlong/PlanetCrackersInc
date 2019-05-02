@@ -3,3 +3,5 @@
 thisPlanetPosition = 0;
 held = false;
 alreadyCollided = false;
+//invulnerable = true
+//alarm_set(2,180)
