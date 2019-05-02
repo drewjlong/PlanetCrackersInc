@@ -1,6 +1,3 @@
-/// Asteroid Spawns and Movements
-// You can write your code in this editor
-
-direction = irandom_range(250, 290);
-image_angle = irandom_range(90,90);
+direction = irandom_range(225, 315);
+image_angle = irandom_range(0, 359);
 speed = 3;

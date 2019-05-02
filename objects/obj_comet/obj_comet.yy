@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_comet",
     "eventList": [
-        
+        {
+            "id": "d0b6af89-26ad-41b6-a320-371088c08c2c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "538adf42-3f2e-4838-b0e4-0c9765b00cf1"
+        },
+        {
+            "id": "966fffd4-10f7-4df9-88b5-88fbbf30baf4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "538adf42-3f2e-4838-b0e4-0c9765b00cf1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
