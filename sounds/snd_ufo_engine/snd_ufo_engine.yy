@@ -1,5 +1,5 @@
 {
-    "id": "ce7bee07-02bd-47f4-90f6-caaacbef9347",
+    "id": "540970c6-4d25-4c77-af80-c8156b71b8e8",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_ufo_engine",
