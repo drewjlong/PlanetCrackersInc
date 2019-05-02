@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if (alreadyCollided == false){
+	sprite_index = spr_planet_pickup
 	held = true;
 	o_ship.numPlanetsHeld += 1;
 	thisPlanetPosition = o_ship.numPlanetsHeld;

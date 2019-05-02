@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "3cfa58e9-5fca-48b5-b045-e8377cf22da2",
+            "Value": {
+                "id": "7818e55d-9b73-4445-b2ca-6462313478d1",
+                "resourcePath": "objects\\obj_ufo\\obj_ufo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e87494d-8be5-49ea-8680-1eaf8ba1a8c5",
             "Value": {
                 "id": "47839f45-6088-4f97-a82c-3a2c6a03fd1f",
@@ -196,6 +204,14 @@
                 "id": "73388196-2216-4597-9aeb-22f34decfd7d",
                 "resourcePath": "sounds\\snd_dead\\snd_dead.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "4300e262-60f1-4113-b70b-930652bac6f4",
+            "Value": {
+                "id": "69968695-8f69-4d6f-a025-530e4fe8e63e",
+                "resourcePath": "objects\\obj_satellite\\obj_satellite.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -367,6 +383,14 @@
             }
         },
         {
+            "Key": "7d4b8401-a47b-48ae-bcd5-6deed4f834f7",
+            "Value": {
+                "id": "243b0fb2-1361-4b68-9932-f14adddee323",
+                "resourcePath": "objects\\obj_supernovaspawner\\obj_supernovaspawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7f29f66e-f97e-4885-9150-8cceca8870a8",
             "Value": {
                 "id": "0fd440b2-b2c0-4591-a4c3-e52c18b0c608",
@@ -471,6 +495,14 @@
             }
         },
         {
+            "Key": "b0c1e4ea-99d8-4775-8eaa-d1d6b5dc3e84",
+            "Value": {
+                "id": "fc7899c9-5075-4a03-b3b9-29c4c9ff30ea",
+                "resourcePath": "objects\\obj_ufospawner\\obj_ufospawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4d56a64-392e-40ce-ba19-c2c7401663a2",
             "Value": {
                 "id": "b65e6e48-c13a-4172-b353-9027637868ed",
@@ -516,6 +548,22 @@
                 "id": "f2f61af4-5eee-434a-bf7b-5b6ecde1aee5",
                 "resourcePath": "rooms\\r_lose\\r_lose.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c4b207bb-ee6c-4078-9348-79b3ecff66bd",
+            "Value": {
+                "id": "5242e46c-07a9-4286-b751-e6d271c0543e",
+                "resourcePath": "objects\\obj_comet\\obj_comet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c4c469ef-1952-4eea-93a6-48fb1186218a",
+            "Value": {
+                "id": "bdffaf1d-f59a-4c6a-8c9d-6e90728408b9",
+                "resourcePath": "objects\\obj_supernova\\obj_supernova.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -599,6 +647,14 @@
             }
         },
         {
+            "Key": "e9e91c7f-838f-424c-8223-fe1670cb0b6c",
+            "Value": {
+                "id": "09095bdc-77c1-4ca0-ba3e-0608d8090054",
+                "resourcePath": "objects\\obj_cometspawner\\obj_cometspawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb10dc52-3661-43ce-8594-87f90330ac71",
             "Value": {
                 "id": "0e664744-7cd3-4dd3-857a-486c449be7c7",
@@ -639,6 +695,14 @@
             }
         },
         {
+            "Key": "f5e3fcb0-a65c-415c-9362-6ee37ee5234c",
+            "Value": {
+                "id": "6c85f72a-ddcd-42d8-9b7d-8a2b24b2f3bc",
+                "resourcePath": "objects\\obj_snexplosion\\obj_snexplosion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f629e66c-4bf7-4dbe-b9e4-b1dd5b7af8be",
             "Value": {
                 "id": "6659ccee-9456-4e86-a17f-aa40a17df09b",
@@ -652,6 +716,14 @@
                 "id": "187ebbc2-9e49-43c8-8dce-775274147ecb",
                 "resourcePath": "sprites\\sprite15\\sprite15.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f76e3ca4-92f5-4e7c-bab3-8f2b8a46735b",
+            "Value": {
+                "id": "6be74742-f31e-49fe-b491-f014eb012966",
+                "resourcePath": "objects\\obj_satellitespawner\\obj_satellitespawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
