@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "08955a4a-6fda-4f55-b700-b6693889eac8",
+            "Value": {
+                "id": "07281ea3-160b-4022-96ed-97aa9b62ac10",
+                "resourcePath": "sprites\\spr_satellite\\spr_satellite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c0c2485-2f66-46aa-a8d8-21f7388741c5",
             "Value": {
                 "id": "54e9aa92-9852-4592-b07c-5a27a5ba25a1",
@@ -84,6 +92,14 @@
                 "id": "4e1269b5-ddbc-446c-bffe-ee84d21cbf9f",
                 "resourcePath": "objects\\obj_blackholespawner\\obj_blackholespawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "20325192-f69d-45e4-8907-48485bdc9514",
+            "Value": {
+                "id": "39877bbe-9f1f-4395-9f7c-6654747ac90f",
+                "resourcePath": "sprites\\spr_snexplosion\\spr_snexplosion.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +319,14 @@
             }
         },
         {
+            "Key": "7494cb7e-ad25-4164-a6ce-acee31ef12a1",
+            "Value": {
+                "id": "72bcbf05-729c-40e5-91ec-a1a7245d9f1e",
+                "resourcePath": "sprites\\spr_comet\\spr_comet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74a0f98c-04b5-473e-8337-6d8d353dc63b",
             "Value": {
                 "id": "35e96c82-1f30-4710-85a7-1d18c8786b93",
@@ -355,6 +379,14 @@
             "Value": {
                 "id": "fb717e3e-8230-4242-aac3-84915c09a65f",
                 "resourcePath": "sprites\\spr_planet_pickup\\spr_planet_pickup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7a9c77bd-d880-4051-a193-b20d67ba00d3",
+            "Value": {
+                "id": "09eaffb6-30a5-4511-8aa6-e47d46f24c39",
+                "resourcePath": "sprites\\spr_supernova\\spr_supernova.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -618,7 +650,7 @@
             "Key": "f1544415-e06d-4fd4-923f-b712c60b42ee",
             "Value": {
                 "id": "36720096-6e31-4060-9345-a19630f039af",
-                "resourcePath": "sprites\\spr_placeHolderBlackHole\\spr_placeHolderBlackHole.yy",
+                "resourcePath": "sprites\\spr_blackhole\\spr_blackhole.yy",
                 "resourceType": "GMSprite"
             }
         },
