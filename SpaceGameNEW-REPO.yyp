@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "08b086a7-125e-4497-b93f-c8d4f07d443b",
+            "Value": {
+                "id": "df6de78c-6973-43be-8479-42034d115073",
+                "resourcePath": "objects\\o_random\\o_random.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c0c2485-2f66-46aa-a8d8-21f7388741c5",
             "Value": {
                 "id": "54e9aa92-9852-4592-b07c-5a27a5ba25a1",
