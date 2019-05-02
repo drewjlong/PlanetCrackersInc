@@ -1,14 +1,14 @@
 {
-    "id": "8a2a54da-580e-4c1e-b64f-183792e5d9a1",
+    "id": "88bb5fe9-b6a5-49d5-89ef-48f29e3c661b",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_dead",
+    "name": "snd_crack",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
-    "bitDepth": 1,
+    "bitDepth": 0,
     "bitRate": 128,
-    "kind": 0,
+    "kind": 3,
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 1
+    "volume": 0.44
 }

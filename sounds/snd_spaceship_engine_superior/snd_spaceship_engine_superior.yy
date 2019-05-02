@@ -1,5 +1,5 @@
 {
-    "id": "74a0f98c-04b5-473e-8337-6d8d353dc63b",
+    "id": "77b62dd9-14f6-4aa9-b044-139407f15788",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_spaceship_engine_superior",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 1
+    "volume": 0.19
 }
