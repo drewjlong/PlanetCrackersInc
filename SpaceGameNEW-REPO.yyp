@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "165f4867-430f-4609-b21c-aee893e24000",
-            "Value": {
-                "id": "d4835c78-aa30-42f3-b560-3eb2592be73b",
-                "resourcePath": "sprites\\spr_placeHolderPlanet\\spr_placeHolderPlanet.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "19c2c8bf-501b-47ed-b1d4-1f04c0b57036",
             "Value": {
                 "id": "2f1943cf-11b9-4d14-947b-ea04127b7343",
@@ -263,14 +255,6 @@
             }
         },
         {
-            "Key": "576f9045-27c4-4348-804c-42b2cfc95b76",
-            "Value": {
-                "id": "bf03f747-0812-4bab-b8ce-7529445a7a6e",
-                "resourcePath": "sprites\\spr_ship\\spr_ship.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "58f3fb4e-064a-480f-8a49-ae0ffe69868b",
             "Value": {
                 "id": "e6b9abf1-7944-4d79-8b3f-5499eca44877",
@@ -356,14 +340,6 @@
                 "id": "1b8e67f9-113b-4e38-b010-e8d4bd87693a",
                 "resourcePath": "objects\\obj_blackhole\\obj_blackhole.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "7920b419-72de-4eab-b30e-8aaeb43c87ad",
-            "Value": {
-                "id": "15315e6a-d7c8-4aac-ba48-1b2fc641060d",
-                "resourcePath": "sprites\\spr_placeHolderShip\\spr_placeHolderShip.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -623,14 +599,6 @@
             }
         },
         {
-            "Key": "e7c64c16-faf9-490a-bab6-096af45a5379",
-            "Value": {
-                "id": "8e68b430-d50d-4a29-880c-a4afe2339d27",
-                "resourcePath": "sprites\\spr_placeHolderHealth\\spr_placeHolderHealth.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "eb10dc52-3661-43ce-8594-87f90330ac71",
             "Value": {
                 "id": "0e664744-7cd3-4dd3-857a-486c449be7c7",
@@ -683,14 +651,6 @@
             "Value": {
                 "id": "187ebbc2-9e49-43c8-8dce-775274147ecb",
                 "resourcePath": "sprites\\sprite15\\sprite15.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f743f1a9-d9fc-4e4e-a3d7-63acc1bc26c1",
-            "Value": {
-                "id": "2b890c16-8d55-4665-9dc2-e72da42b2bcf",
-                "resourcePath": "sprites\\spr_placeHolderAsteroid\\spr_placeHolderAsteroid.yy",
                 "resourceType": "GMSprite"
             }
         },
