@@ -13,4 +13,7 @@ if (held==true){
 else{
 	direction = point_direction(x,y,x,y+1000)
 	speed = 1
+	if(y>800){
+		instance_destroy()
+		}
 }
