@@ -4,4 +4,4 @@ seconds-=1
 if(seconds==0)
 	{room_goto(r_win)}
 else
-	{alarm_set(0,room_speed)}
+	{alarm_set(0,10)}
