@@ -10,6 +10,14 @@ if (held==true){
 		else speed = 6-(thisPlanetPosition/2)
 	}
 }
+else if (ufoHeld==true){
+	if (instance_exists(targetUfo)){
+		speed = 0;
+		x = targetUfo.x
+		y = targetUfo.y + 40
+	}
+	else instance_destroy()
+}
 else{
 	direction = point_direction(x,y,x,y+1000)
 	speed = 1
